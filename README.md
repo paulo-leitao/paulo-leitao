@@ -4,7 +4,7 @@
 </div>
 
 ###
-<img href="https://github.com/paulo-leitao/paulo-leitao/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/paulo-leitao/paulo-leitao/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
 <div align="center">
