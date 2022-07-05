@@ -1,3 +1,5 @@
+# <div align="center">:construction: Under Construction</div>
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=paulo-leitao" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=paulo-leitao" height="150" alt="languages graph"  />
@@ -9,11 +11,11 @@
 </div>
 
 ###
-<div align="center">
+<!--<div align="center">
   <a href="https://open.spotify.com/user/paulo.leitao">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=paulo.leitao&count=5" alt="Spotify recently played"  />
   </a>
-</div>
+</div> -->
 
 ###
 <div align="center">
